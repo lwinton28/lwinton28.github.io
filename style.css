@@ -1,0 +1,40 @@
+body {
+
+	text-align: center;
+	font-family: Noto Serif
+
+}
+
+h1 {
+
+	font-size: 42px;
+}
+
+h2 {
+
+	font-size: 32px;
+}
+
+#header {
+background-color: #5ec9b5;
+padding: 80px;
+margin-bottom: 50px;
+}
+
+#header h1, #header h2 {
+color: white;
+}
+
+#about_content img { 
+	width: 120px; 
+	border-radius: 100px;
+}
+
+a {
+	color: #bc8fb1
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff0cc3;
+}
